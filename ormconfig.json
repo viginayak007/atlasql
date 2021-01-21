@@ -1,6 +1,6 @@
 {
    "type": "mongodb",
-   "url": "mongodb+srv://servicenow:service123@cluster0.3d8e7.mongodb.net/test?retryWrites=true&w=majority",
+   "url": "<connection string>",
    "useNewUrlParser": true,
    "synchronize": true,
    "logging": false,
